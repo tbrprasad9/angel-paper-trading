@@ -38,6 +38,7 @@ else:
     
     with st.expander("🔑 Default password (for testing)"):
         st.warning("Default: `admin123`\n\nChange in .streamlit/secrets.toml")
+
 ```
 
 4. Commit ✅
@@ -120,3 +121,4 @@ Your Live Website:
 ✅ https://your-app.streamlit.app
 ✅ Accessible from anywhere
 ✅ Auto-updates when you edit on GitHub
+ 
